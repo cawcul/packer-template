@@ -1,0 +1,6 @@
+.swp
+.vscode
+*.zip
+.vagrant
+packer_cache
+*.box
